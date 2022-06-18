@@ -1,0 +1,13 @@
+Objetivos alcançados do curso:
+
+Boas praticas de programação
+Oque são algoritmos e pseudocódigo
+Aprendendo fluxograma, variaveis e constantes
+Tomadas de decisões e expressões
+Como utilizar a concatenação
+Linguagens de repetição, laços de repetição em Portugol
+Matrizes e Vetores.
+
+O aprendizado com este curso foi de suma importancia para o inicio do pensamento computacional e programação em si.
+
+link do certificado com 4 horas de curso: https://www.dio.me/certificate/A0D53400/share
